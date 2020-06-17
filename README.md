@@ -1,3 +1,5 @@
+> ℹ️ This fork is maintained for use in [namely/dev-proxy](https://github.com/namely/dev-proxy) because the original repo is no longer being actively maintained.
+
 AnyProxy
 ----------------
 
